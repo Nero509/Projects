@@ -23,7 +23,7 @@ System app that can control device network, WiFi & mobile internet connection, d
 Can MobiCare Diagnose your device and generate a report. Can MobiCare can book for mobile repair and can sell device<br/>
 [https://play.google.com/store/apps/details?id=com.candour.cspl1css.canmobicare]<br/>
 12-CANSALE Goela<br />
-
+Cansale Goela application for Goela Employee to sale, stock record, place sale order, mark attendance, add or view customer, check task and feedback.<br/>
 [https://play.google.com/store/apps/details?id=com.candoursoft.goela]<br/>
 13-Lava Employee Tracker<br />
 [https://play.google.com/store/apps/details?id=com.production.nero.emptracker]<br/>

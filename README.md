@@ -21,7 +21,7 @@ System app that can control device network, WiFi & mobile internet connection, d
 Application for Satcomm Employee to sale device, track sale record, place order to retailer and mark attendance.<br/>
 [https://play.google.com/store/apps/details?id=com.cspl.satcomm]<br/>
 ### **11-Can MobiCare<br />**
-Can MobiCare Diagnose your device and generate a report. Can MobiCare can book for mobile repair and can sell device<br/>
+Can MobiCare Diagnose device and generate a report. Can MobiCare can book for mobile repair and can sell device<br/>
 [https://play.google.com/store/apps/details?id=com.candour.cspl1css.canmobicare]<br/>
 ### **12-CANSALE Goela<br />**
 Cansale Goela application for Goela Employee to sale, stock record, place sale order, mark attendance, add or view customer, check task and feedback.<br/>

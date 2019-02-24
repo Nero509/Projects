@@ -9,17 +9,17 @@ App for field engineers to mark attendance, upload data on server and view assig
 Customer app to provide extended warranty for mobile devices<br />
 ### **5-OKWU Reatail<br />**
 Retailer app to place sale order, mark attendance, view reports<br />
-**6-SMS Gateway<br />**
+### **6-SMS Gateway<br />**
 App that sync all recieved SMS to assigned server<br />
-**7-Device Activator<br />**
-System app that fetch device details to server on purchase 
-**8-Android PC suit<br />**
+### **7-Device Activator<br />**
+System app that fetch device details to server on purchase <br/>
+### **8-Android PC suit<br />**
 App for inter-device communication(Linux and Windows PC) using ADB tools<br />
-**9-Android Superuser<br />**
+### **9-Android Superuser<br />**
 System app that can control device network, WiFi & mobile internet connection, date/time setting(Root Required)<br/>
-**10-Satcomm Sale Tracker<br />**
+### **10-Satcomm Sale Tracker<br />**
 [https://play.google.com/store/apps/details?id=com.cspl.satcomm]<br/>
-**11-Can MobiCare<br />**
+### **11-Can MobiCare<br />**
 Can MobiCare Diagnose your device and generate a report. Can MobiCare can book for mobile repair and can sell device<br/>
 [https://play.google.com/store/apps/details?id=com.candour.cspl1css.canmobicare]<br/>
 12-CANSALE Goela<br />

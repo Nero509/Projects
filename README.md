@@ -19,8 +19,8 @@ App for inter-device communication(Linux and Windows PC) using ADB tools<br />
 System app that can control device network, WiFi & mobile internet connection, date/time setting(Root Required)<br/>
 **10-Satcomm Sale Tracker<br />**
 [https://play.google.com/store/apps/details?id=com.cspl.satcomm]<br/>
-11-Can MobiCare<br />
-
+**11-Can MobiCare<br />**
+Can MobiCare Diagnose your device and generate a report. Can MobiCare can book for mobile repair and can sell device<br/>
 [https://play.google.com/store/apps/details?id=com.candour.cspl1css.canmobicare]<br/>
 12-CANSALE Goela<br />
 

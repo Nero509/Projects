@@ -29,11 +29,11 @@ Cansale Goela application for Goela Employee to sale, stock record, place sale o
 ### **13-Lava Employee Tracker<br />**
 App for employers to track their remote employees attendance, leaves.<br/>
 [https://play.google.com/store/apps/details?id=com.production.nero.emptracker]<br/>
-### **14-ESD Care<br />**<br/>
+### **14-ESD Care<br />**
 E-commerce app for ESD related Products
-### **15-The Keypad<br />**<br/>
+### **15-The Keypad<br />**
 Customer and bussiness app that provides mobile repair services
-### **16-Bits Music<br />**<br/>
+### **16-Bits Music<br />**
 Music app that arrange and play songs based on it's bitrate
 
 

@@ -1,10 +1,10 @@
 ## Projects
 ### **1-Trade4Sure<br />**
-<pre>    Runs a test on device to identify hardware faults<pre><br />
-**2-Okaya Care<br />**
-**3-Microtek Care<br />**
-**4-Smart Safe Service<br />**
-**5-OKWU Reatail<br />**
+Runs a test on device to identify hardware faults<br />
+### **2-Okaya Care<br />**
+### **3-Microtek Care<br />**
+### **4-Smart Safe Service<br />**
+### **5-OKWU Reatail<br />**
 **6-SMS Gateway<br />**
 **7-Device Activator<br />**
 **8-Android PC suit<br />**

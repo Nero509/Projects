@@ -27,6 +27,7 @@ Can MobiCare Diagnose your device and generate a report. Can MobiCare can book f
 Cansale Goela application for Goela Employee to sale, stock record, place sale order, mark attendance, add or view customer, check task and feedback.<br/>
 [https://play.google.com/store/apps/details?id=com.candoursoft.goela]<br/>
 ### **13-Lava Employee Tracker<br />**
+App for employers to track their remote employees attendance, leaves.<br/>
 [https://play.google.com/store/apps/details?id=com.production.nero.emptracker]<br/>
 ### **14-ESD Care<br />**<br/>
 ### **15-The Keypad<br />**<br/>

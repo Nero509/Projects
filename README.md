@@ -2,7 +2,9 @@
 ### **1-Trade4Sure<br />**
 Runs a test on device to identify hardware faults<br />
 ### **2-Okaya Care<br />**
+App for field engineers to mark attendance, upload data on server and view assigned tasks, reports<br/>
 ### **3-Microtek Care<br />**
+App for field engineers to mark attendance, upload data on server and view assigned tasks, reports<br/>
 ### **4-Smart Safe Service<br />**
 ### **5-OKWU Reatail<br />**
 **6-SMS Gateway<br />**
